@@ -26,3 +26,22 @@ Estou em constante busca por evolução profissional e me dedicando ao aprendiza
 Estou buscando me aprimorar nas tecnologias que estou aprendendo e explorar novas áreas, como o desenvolvimento web e automação. Meu foco é me tornar um desenvolvedor completo, capaz de criar soluções eficientes e inovadoras para diferentes desafios.
 
 Se você tiver alguma sugestão de tecnologia ou área para eu estudar, fico feliz em ouvir!
+
+## Projetos em Destaque
+
+- [Market Manager](https://github.com/GatesInDev/MarketManager) - Sistema de gerenciamento empresarial com base em sistemas ERP, Feito em Java utilizando Apache Netbeans.
+- [Financial Wizard] - Em Desenvolvimento...
+
+## Meu Ambiente de Desenvolvimento
+
+- **Sistema Operacional**: Linux Fedora LTS
+- **Editor de Código**: Sublime Text, Visual Studio 2022
+- **Ferramentas**: Git, Docker
+- **Terminal**: Linux Bash
+- **Gerenciador de Pacotes**: npm, pip, dnf
+- **Containers**: Docker (para ambientes isolados e testes)
+- **Banco de Dados**: MySQL
+- **Controle de Versão**: Git, GitHub
+- **Testes Automatizados**: JUnit
+- **Ferramentas de Colaboração**: Trello, Mila Note
+- **Outras Ferramentas**: Figma
