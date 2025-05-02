@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="Arch Linux Logo" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/NASM_Logo.png" alt="NASM Logo" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Gnu_Assembly_logo.svg" alt="GAS Logo" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust Logo" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C Logo" width="60"/>
+  <img src="https://raw.githubusercontent.com/archlinux/archinstall/main/docs/img/archlogo.png" alt="Arch Linux" width="50"/>
+  <img src="https://raw.githubusercontent.com/NASM-Assembler/NASM/main/doc/logo/nasm.png" alt="NASM Logo" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gnu_Logo.png" alt="GAS / GNU Logo" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust Logo" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Logo" width="50"/>
 </p>
+
 
 <h1 align="center">Baixo nível, alto controle 🧠</h1>
 
