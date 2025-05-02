@@ -1,47 +1,64 @@
-# Olá, eu sou Vitor"Gates"Altmann.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="Arch Linux Logo" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/NASM_Logo.png" alt="NASM Logo" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Gnu_Assembly_logo.svg" alt="GAS Logo" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="Rust Logo" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" alt="C Logo" width="60"/>
+</p>
 
-Atualmente, sou estudante e estou focado em aprimorar minhas habilidades em desenvolvimento de software. Tenho 17 anos e estou cursando Ciências da Computação.  
-Estou em constante busca por evolução profissional e me dedicando ao aprendizado de novas tecnologias e práticas de desenvolvimento.
+<h1 align="center">Baixo nível, alto controle 🧠</h1>
 
-## Tecnologias que estou aprendendo
+<p align="center">Entusiasta de sistemas operacionais, Assembly, linguagens de baixo nível e tudo que envolva performance e arquitetura de sistemas.</p>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-</div>
+---
 
-## Tecnologias que gostaria de aprender
+## 🖥️ Ambiente
 
-<div style="display: flex; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-</div>
+- 💻 **Sistema Principal**: Arch Linux (com orgulho)
+- 🧠 **Foco**: Desenvolvimento de baixo nível com foco em Assembly (x86_64 e futuramente ARM)
+- 🧪 **Ferramentas atuais**: NASM e GAS (GNU Assembler)
+- ⚙️ **Conhecimento prévio**: Linguagem C e fundamentos de sistemas operacionais
+- 🌱 **Explorando também**: Rust para projetos que exigem performance com segurança
 
-## Objetivos
+---
 
-Estou buscando me aprimorar nas tecnologias que estou aprendendo e explorar novas áreas, como o desenvolvimento web e automação. Meu foco é me tornar um desenvolvedor completo, capaz de criar soluções eficientes e inovadoras para diferentes desafios.
+## 💡 Áreas de interesse
 
-Se você tiver alguma sugestão de tecnologia ou área para eu estudar, fico feliz em ouvir!
+- Sistemas operacionais (escrita, análise e uso avançado)
+- Assembly para CISC (x86_64) e RISC (ARM)
+- Escrita de bootloaders, kernels e ferramentas em baixo nível
+- Otimização de código ao nível de registradores
+- Análise binária e engenharia reversa
+- Desenvolvimento seguro e performático com Rust
 
-## Projetos em Destaque
+---
 
-- [Market Manager](https://github.com/GatesInDev/MarketManager) - Sistema de gerenciamento empresarial com base em sistemas ERP, Feito em Java utilizando Apache Netbeans.
-- [Financial Wizard] - Em Desenvolvimento...
+## 📂 Projetos
 
-## Meu Ambiente de Desenvolvimento
+| Projeto | Descrição |
+|--------|-----------|
+| [`nasm-experiments`](https://github.com/seuusuario/nasm-experiments) | Exemplos e experimentações com NASM em Linux |
+| [`gas-playground`](https://github.com/seuusuario/gas-playground) | Códigos usando a sintaxe AT&T com GAS |
+| [`mini-kernel`](https://github.com/seuusuario/mini-kernel) | Projeto de kernel minimalista escrito em Assembly e C |
 
-- **Sistema Operacional**: Linux Fedora LTS
-- **Editor de Código**: Sublime Text, Visual Studio 2022
-- **Ferramentas**: Git, Docker
-- **Terminal**: Linux Bash
-- **Gerenciador de Pacotes**: npm, pip, dnf
-- **Containers**: Docker (para ambientes isolados e testes)
-- **Banco de Dados**: MySQL
-- **Controle de Versão**: Git, GitHub
-- **Testes Automatizados**: JUnit
-- **Ferramentas de Colaboração**: Trello, Mila Note
-- **Outras Ferramentas**: Figma
+---
+
+## 🖼️ Exemplos visuais
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Nasm_hello_world.png" alt="Código NASM" width="400"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Bootloader_Code_Screenshot.png" alt="Bootloader" width="400"/>
+</p>
+
+<p align="center"><i>Capturas de projetos Assembly</i></p>
+
+---
+
+## 🤝 Conecte-se
+
+Estou sempre aberto a trocar ideias, colaborar em projetos e discutir arquitetura, performance e desenvolvimento de sistemas.
+
+📫 Entre em contato por [GitHub Issues](https://github.com/GatesInDev) ou abra uma conversa em qualquer repositório de interesse.
+
+---
+
