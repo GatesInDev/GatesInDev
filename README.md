@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/archlinux/archinstall/main/docs/img/archlogo.png" alt="Arch Linux" width="50"/>
-  <img src="https://raw.githubusercontent.com/NASM-Assembler/NASM/main/doc/logo/nasm.png" alt="NASM Logo" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gnu_Logo.png" alt="GAS / GNU Logo" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Nasm-logo.svg" alt="NASM" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gnu_Logo.png" alt="GAS (GNU)" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust Logo" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Logo" width="50"/>
 </p>
