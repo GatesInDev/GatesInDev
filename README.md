@@ -1,56 +1,54 @@
-<h1 align="center">Baixo nível, alto controle 🧠</h1>
+# 👋 Olá! Eu sou Vitor"GatesInDev"Altmann
 
-<p align="center">Entusiasta de sistemas operacionais, Assembly, linguagens de baixo nível e tudo que envolva performance e arquitetura de sistemas.</p>
+🎓 Estudante de Ciência da Computação  
+🧠 Apaixonado por desenvolvimento de software, sistemas operacionais e tecnologias de baixo nível  
+💼 Também tenho grande interesse por **contabilidade, finanças** e **sistemas ERP**
 
----
-
-## 🖥️ Ambiente
-
-- 💻 **Sistema Principal**: Arch Linux (com orgulho)
-- 🧠 **Foco**: Desenvolvimento de baixo nível com foco em Assembly (x86_64 e futuramente ARM)
-- 🧪 **Ferramentas atuais**: NASM e GAS (GNU Assembler)
-- ⚙️ **Conhecimento prévio**: Linguagem C e fundamentos de sistemas operacionais
-- 🌱 **Explorando também**: Rust para projetos que exigem performance com segurança
+🛠️ Trabalho principalmente com o ecossistema **.NET (C#, ASP.NET, Entity Framework)**  
+🐧 Entusiasta de **Linux**, **Shell Script**, e explorador de **Assembly**
 
 ---
 
-## 💡 Áreas de interesse
+## 🚀 Tecnologias que utilizo
 
-- Sistemas operacionais (escrita, análise e uso avançado)
-- Assembly para CISC (x86_64) e RISC (ARM)
-- Escrita de bootloaders, kernels e ferramentas em baixo nível
-- Otimização de código ao nível de registradores
-- Análise binária e engenharia reversa
-- Desenvolvimento seguro e performático com Rust
+### 🌐 Backend & Web
+- C#, ASP.NET Core, Razor Pages, Blazor
+- REST APIs
+- Entity Framework Core
+- SQL Server
 
----
+### 📊 ERP / Sistemas Corporativos
+- Interesse por sistemas ERP (como Totvs, SAP, etc.)
+- Conceitos de contabilidade, financeiro, e gestão empresarial
 
-## 📂 Projetos
+### 💻 Sistemas & Ferramentas
+- Shell Script / Bash
+- PowerShell
+- Git & GitHub
+- Docker (em aprendizado)
 
-| Projeto | Descrição |
-|--------|-----------|
-| [`nasm-experiments`](https://github.com/seuusuario/nasm-experiments) | Exemplos e experimentações com NASM em Linux |
-| [`gas-playground`](https://github.com/seuusuario/gas-playground) | Códigos usando a sintaxe AT&T com GAS |
-| [`mini-kernel`](https://github.com/seuusuario/mini-kernel) | Projeto de kernel minimalista escrito em Assembly e C |
-
----
-
-## 🖼️ Exemplos visuais
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Nasm_hello_world.png" alt="Código NASM" width="400"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Bootloader_Code_Screenshot.png" alt="Bootloader" width="400"/>
-</p>
-
-<p align="center"><i>Capturas de projetos Assembly</i></p>
+### ⚙️ Baixo nível & Outros
+- Noções de Assembly (x86/x64)
+- Arquitetura de computadores e sistemas operacionais
+- Linux (usuário frequente – RHEL/Arch)
 
 ---
 
-## 🤝 Conecte-se
-
-Estou sempre aberto a trocar ideias, colaborar em projetos e discutir arquitetura, performance e desenvolvimento de sistemas.
-
-📫 Entre em contato por [GitHub Issues](https://github.com/GatesInDev) ou abra uma conversa em qualquer repositório de interesse.
+## 📚 Atualmente estudando
+- Economia e finanças
+- Conceitos contábeis aplicados a sistemas
+- Arquitetura de Software
+- DevOps com Docker e CI/CD
+- Clean Architecture
 
 ---
 
+## 📫 Como me encontrar
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitoraltmann)
+- 💻 [Meu Portfólio (Em Desenvolvimento)]
+- 📧 vitoraltmann@gmail.com
+
+---
+
+⭐ Se gostou de algum projeto meu, sinta-se à vontade para dar uma estrela ou contribuir!
