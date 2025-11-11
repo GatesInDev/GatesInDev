@@ -46,8 +46,8 @@
 ## 📫 Como me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/vitoraltmann)
-- 💻 [Meu Portfólio (Em Desenvolvimento)]
-- 📧 vitoraltmann@gmail.com
+- 💻 [Meu Portfólio (vitoraltmann.dev)] WIP
+- 📧 contato@vitoraltmann.dev
 
 ---
 
