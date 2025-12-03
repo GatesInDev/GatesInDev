@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/3M8kX2O.gif" width="100%" style="border-radius: 10px; border: 2px solid #ff69b4; box-shadow: 0 0 20px #ff69b4, 0 0 40px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/synthwave.gif" width="100%" style="border-radius: 10px;"/>
+
+  <br><br>
 
   <h1 style="font-family: 'Courier New', monospace; text-shadow: 2px 2px 4px #ff00ff;">
     📼 VITOR ALTMANN 📼
@@ -9,7 +11,9 @@
   </h3>
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <div align="center">
 
@@ -21,15 +25,13 @@ Estou atualmente ajustando meus osciladores para aprender novas formas de persis
 
 <br>
 
-💾 **Website (WIP):** [vitoraltmann.dev](https://vitoraltmann.dev)
-📨 **Frequência de Contato:** [contato@vitoraltmann.dev](mailto:contato@vitoraltmann.dev)
+💾 **Website (WIP):** [vitoraltmann.dev](https://vitoraltmann.dev)<br>
+📨 **Frequência de Contato:** [contato@vitoraltmann.dev](mailto:contato@vitoraltmann.dev)<br>
 🐧 **Main OS:** Arch Linux (I use Arch btw)
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ5YmE1Zjg5ZTY1ZmY5NmY5NmY5NmY5NmY5NmY5NmY5NmY5NmY5biZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LpF8g6V5V0sTjJvQk9/giphy.gif" width="50px">
 
 </div>
 
----
+<br>
 
 <div align="center">
   <h2 style="color: #ff69b4; text-shadow: 2px 2px #00ffff;">🎹 SYNTHESIZED SKILLS 🎛️</h2>
@@ -52,7 +54,9 @@ Estou atualmente ajustando meus osciladores para aprender novas formas de persis
   <img src="https://img.shields.io/badge/Arch_Linux-00FFFF?style=for-the-badge&logo=arch-linux&logoColor=black">
 </div>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <div align="center">
   <h2 style="color: #ff69b4; text-shadow: 2px 2px #00ffff;">💿 DISCOGRAPHY (PROJECTS) 💿</h2>
@@ -65,11 +69,9 @@ Estou atualmente ajustando meus osciladores para aprender novas formas de persis
 | 🛍️ [**PDV System**](https://github.com/GatesInDev/PDV) | Ponto de Venda Híbrido (Desktop & Web). | `WPF` `ASP.NET` |
 | 🎵 [**VinylRecordsERP**](https://github.com/GatesInDev/VinylRecordsERP) | ERP Java "Raiz" para gerenciar discos de vinil. | `Java Raw` |
 
-<br>
-<img src="https://media.giphy.com/media/XHjjE27C72V1kR9Nzb/giphy.gif" width="100%" height="30px" style="border-radius: 5px;">
 </div>
 
----
+<br>
 
 <div align="center">
   <h2 style="color: #ff69b4;">👾 GITHUB STATS EQUALIZER 👾</h2>
@@ -80,9 +82,8 @@ Estou atualmente ajustando meus osciladores para aprender novas formas de persis
   </a>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif" width="150px">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <br>
   <p style="color: #ff69b4; font-size: 10px;"><i>KEEP THE SYNTH ALIVE // END OF TRANSMISSION</i></p>
 </div>
