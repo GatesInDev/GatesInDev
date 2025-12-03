@@ -1,57 +1,88 @@
-# Olá, eu sou o Vitor Altmann! 👋
-
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk5eGoyNGI3ODNidXU0eGplNzF6cDNtODZjMjI1NGZ0dDduMzdlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WQ3Uz2IGuyC4FtrZIn/giphy.gif" width="100%" height="200"/>
+  <img src="https://i.imgur.com/3M8kX2O.gif" width="100%" style="border-radius: 10px; border: 2px solid #ff69b4; box-shadow: 0 0 20px #ff69b4, 0 0 40px #00ffff;"/>
+
+  <h1 style="font-family: 'Courier New', monospace; text-shadow: 2px 2px 4px #ff00ff;">
+    📼 VITOR ALTMANN 📼
+  </h1>
+  <h3 style="color: #00ffff; text-shadow: 1px 1px 10px #00ffff;">
+    [ ML_RESEARCHER // LOW_LEVEL_ENTHUSIAST // .NET_OPERATOR ]
+  </h3>
 </div>
 
-### 👨‍💻 Sobre Mim
-
-Sou um desenvolvedor apaixonado por entender como as coisas funcionam "debaixo do capô". Atualmente, meu foco principal de estudos é **Machine Learning (ML)** e linguagens de **baixo nível**. Tenho uma base sólida em desenvolvimento Web com o ecossistema .NET, mas meu coração bate mais forte por Linux, Assembly e otimização de sistemas.
-
-* 🔭 **Atualmente trabalhando em:** Projetos de ML e manutenção do meu portfólio.
-* 🌱 **Atualmente aprendendo:** Novos métodos de persistência de dados (NoSQL/Vetorais) para aplicar em modelos de ML.
-* 🐧 **Linux Enthusiast:** Usuário de Arch Linux e criador do [GatesOS](https://github.com/GatesInDev/GatesOS).
-* 🌐 **Website:** [vitoraltmann.dev](https://vitoraltmann.dev) *(WIP)*
-* 📫 **Contato:** [contato@vitoraltmann.dev](mailto:contato@vitoraltmann.dev)
-
 ---
-
-### 🛠️ Tech Stack
-
-**Linguagens & Core:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-555?style=for-the-badge&logo=intel&logoColor=white)
-
-**Web & Frameworks:**
-![Blazor](https://img.shields.io/badge/blazor-%23512BD4.svg?style=for-the-badge&logo=blazor&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-**Banco de Dados & OS:**
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
----
-
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tech Stack |
-| :--- | :--- | :--- |
-| [**GestAgro**](https://agrogest.vitoraltmann.dev) | Sistema de gestão agrícola rodando em WebAssembly. <br> *([Repo](https://github.com/GatesInDev/GestAgro))* | `Blazor WASM` `ASP.NET Core` |
-| [**GatesOS**](https://github.com/GatesInDev/GatesOS) | Minha personalização baseada em Arch Linux. | `Linux` `Shell` `Arch` |
-| [**PDV**](https://github.com/GatesInDev/PDV) | Sistema de Ponto de Venda desktop e web. | `ASP.NET` `WPF` |
-| [**VinylRecordsERP**](https://github.com/GatesInDev/VinylRecordsERP) | ERP para gestão de discos de vinil (Raw implementation). | `Java` |
-
----
-
-### 📊 GitHub Stats
 
 <div align="center">
+
+### 🌌 TRANSMISSION FROM THE GRID
+
+Sou um desenvolvedor fascinado pelo funcionamento interno da máquina. Enquanto navego no desenvolvimento Web moderno com **.NET**, minha verdadeira paixão é descer ao nível do metal: **Assembly, Linux e a matemática do Machine Learning**.
+
+Estou atualmente ajustando meus osciladores para aprender novas formas de persistência de dados (vetoriais/NoSQL) para alimentar modelos de IA.
+
+<br>
+
+💾 **Website (WIP):** [vitoraltmann.dev](https://vitoraltmann.dev)
+📨 **Frequência de Contato:** [contato@vitoraltmann.dev](mailto:contato@vitoraltmann.dev)
+🐧 **Main OS:** Arch Linux (I use Arch btw)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ5YmE1Zjg5ZTY1ZmY5NmY5NmY5NmY5NmY5NmY5NmY5NmY5NmY5biZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LpF8g6V5V0sTjJvQk9/giphy.gif" width="50px">
+
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #ff69b4; text-shadow: 2px 2px #00ffff;">🎹 SYNTHESIZED SKILLS 🎛️</h2>
+  <p><i>My tech stack tuned to neon frequencies.</i></p>
+
+  <p><strong>// CORE_LANGUAGES //</strong></p>
+  <img src="https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-9400D3?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-00FFFF?style=for-the-badge&logo=c-sharp&logoColor=black">
+  <img src="https://img.shields.io/badge/ASSEMBLY-FF1493?style=for-the-badge&logo=intel&logoColor=white">
+
+  <p><strong>// WEB_FRAMEWORKS //</strong></p>
+  <img src="https://img.shields.io/badge/Blazor_WASM-8A2BE2?style=for-the-badge&logo=blazor&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET_Core-FF00FF?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET-00CED1?style=for-the-badge&logo=.net&logoColor=white">
+
+  <p><strong>// DATABASE_&_SYSTEM //</strong></p>
+  <img src="https://img.shields.io/badge/SQL_Server-FF69B4?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-9400D3?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch_Linux-00FFFF?style=for-the-badge&logo=arch-linux&logoColor=black">
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #ff69b4; text-shadow: 2px 2px #00ffff;">💿 DISCOGRAPHY (PROJECTS) 💿</h2>
+  <p><i>Select tracks from my repository.</i></p>
+
+| TRACK | DESCRIPTION | GENRE/STACK |
+| :--- | :--- | :--- |
+| 🚜 [**GestAgro**](https://agrogest.vitoraltmann.dev) | Sistema de gestão agrícola rodando no browser via WASM. <br> *([Source Tape](https://github.com/GatesInDev/GestAgro))* | `Blazor WASM` `ASP.NET` |
+| 🐧 [**GatesOS**](https://github.com/GatesInDev/GatesOS) | Minha "distro" personalizada baseada em Arch Linux. | `Bash` `Arch` `Low-Level` |
+| 🛍️ [**PDV System**](https://github.com/GatesInDev/PDV) | Ponto de Venda Híbrido (Desktop & Web). | `WPF` `ASP.NET` |
+| 🎵 [**VinylRecordsERP**](https://github.com/GatesInDev/VinylRecordsERP) | ERP Java "Raiz" para gerenciar discos de vinil. | `Java Raw` |
+
+<br>
+<img src="https://media.giphy.com/media/XHjjE27C72V1kR9Nzb/giphy.gif" width="100%" height="30px" style="border-radius: 5px;">
+</div>
+
+---
+
+<div align="center">
+  <h2 style="color: #ff69b4;">👾 GITHUB STATS EQUALIZER 👾</h2>
+  <br>
   <a href="https://github.com/GatesInDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GatesInDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatesInDev&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GatesInDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatesInDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f31DK1KpGsyMU/giphy.gif" width="150px">
+  <p style="color: #ff69b4; font-size: 10px;"><i>KEEP THE SYNTH ALIVE // END OF TRANSMISSION</i></p>
 </div>
