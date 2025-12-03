@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/view/vaporwave-sunset-gif-9215082118540578754" width="100%" style="border-radius: 10px;"/>
+  <img src="https://media1.tenor.com/m/f-KMXPuqT8IAAAAC/vaporwave-sunset.gif" width="100%" style="border-radius: 10px;"/>
 
   <br><br>
 
