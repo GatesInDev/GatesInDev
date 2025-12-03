@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/synthwave.gif" width="100%" style="border-radius: 10px;"/>
+  <img src="https://tenor.com/view/vaporwave-sunset-gif-9215082118540578754" width="100%" style="border-radius: 10px;"/>
 
   <br><br>
 
