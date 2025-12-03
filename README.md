@@ -1,7 +1,7 @@
 # Olá, eu sou o Vitor Altmann! 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk5eGoyNGI3ODNidXU0eGplNzF6cDNtODZjMjI1NGZ0dDduMzdlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WQ3Uz2IGuyC4FtrZIn/giphy.gif" width="100%" height="200"/>
 </div>
 
 ### 👨‍💻 Sobre Mim
