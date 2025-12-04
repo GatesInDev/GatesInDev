@@ -77,11 +77,12 @@ Estou atualmente ajustando meus osciladores para aprender novas formas de persis
   <h2 style="color: #ff69b4;">👾 GITHUB STATS EQUALIZER 👾</h2>
   <br>
   <a href="https://github.com/GatesInDev">
-  <!-- Stats com synthwave -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GatesInDev&show_icons=true&theme=synthwave" />
+  <!-- Estatísticas -->
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=GatesInDev&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true" />
 
-<!-- Linguagens com tema compacto/colorido -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GatesInDev&layout=compact&theme=synthwave" />
+<!-- Linguagens principais -->
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GatesInDev&layout=compact&theme=synthwave" />
+
 
   </a>
 </div>
