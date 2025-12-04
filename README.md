@@ -81,7 +81,7 @@ Estou atualmente ajustando meus osciladores para aprender novas formas de persis
 <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=GatesInDev&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true" />
 
 <!-- Linguagens principais -->
-<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GatesInDev&layout=compact&theme=synthwave" />
+<img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GatesInDev&layout=compact&theme=synthwave" width="100%"/>
 
 
   </a>
