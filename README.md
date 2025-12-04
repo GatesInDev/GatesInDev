@@ -134,11 +134,8 @@ Atualmente ajusto meus osciladores para explorar novas formas de persistência d
   <h2 style="color: #ff69b4; text-shadow: 0 0 6px #00ffff;">👾 GITHUB STATS EQUALIZER 👾</h2>
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
     <img src="https://github-readme-stats-fast.vercel.app/api?username=GatesInDev&show_icons=true&theme=synthwave&count_private=true&include_all_commits=true" height="200px"/>
-
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GatesInDev&layout=compact&theme=synthwave" height="200px"/>
-
   </div>
 </div>
 
